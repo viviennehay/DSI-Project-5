@@ -190,7 +190,7 @@ country_list = """4:Afghanistan
 914:Bosnia
 915:Kosovo"""
 
-column_names = ["Important in life: Family",
+column_labels_from_data_dict = ["Important in life: Family",
 "Family important",
 "Important in life: Friends",
 "Friends important",
@@ -1623,7 +1623,7 @@ column_names = ["Important in life: Family",
 "Spouse/partner experienced unemployment longer than 3 months",
 "Dependency on social security during last 5 years spouse/partner'"]
 
-new_column_labels = ['A001',
+column_codes_from_data_dict = ['A001',
 'A001_CO',
 'A002',
 'A002_CO',
